@@ -1,2 +1,2 @@
 # jupy-tricks
-Various snippets for Jupyter notebooks 
+Various useful `Python` snippets to use in `Jupyter` notebooks 
